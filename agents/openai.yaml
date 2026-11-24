@@ -1,0 +1,4 @@
+interface:
+  display_name: "Google Play 转区"
+  short_description: "检查 Google Play 地区并通过支付资料尝试免绑卡切换"
+  default_prompt: "用 $google-play-country-switch 检查当前 Google Play 地区，并尝试在不绑卡的情况下切到新加坡。"
